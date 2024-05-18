@@ -1,0 +1,59 @@
+.container1{
+    width: 1500px;
+    height: 650px;
+    border: 3px solid black;
+    color: brown;
+    border-radius: 50px;
+    background-image: url("Feedback.webp");
+}
+
+#name1{
+    width: 400px;
+    height: 40px;
+    border: 3px solid black;
+    background-color:lightgreen;
+    border-radius: 20px;
+    color: black;
+    font-size: xx-large;
+    font-weight: 800px;
+    margin-top: 30px;
+    }
+    
+
+#container2{
+    width: 1150px;
+    height: 400px;
+    margin-top: 30px;
+    color: black;
+    font-weight: 300;
+    border-radius: 50px;
+    background-color:  transparent;
+}
+
+#name2{
+width: 400px;
+height: 40px;
+border: 3px solid black;
+background-color: yellow;
+border-radius: 20px;
+color: rgb(7, 1, 15);
+font-size: xx-large;
+font-weight: 800px;
+margin-top: 30px;
+}
+
+#container3{
+    width: 900px;
+    height: 220px;
+    border: 5px solid black;
+    margin-top:230px;
+    background-color: white;
+    border-radius: 50px;
+}
+
+#para{
+    width: 800px;
+    height: 400px;
+    margin-top: 0px;
+    font-size: xx-large;
+}
